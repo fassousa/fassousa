@@ -22,6 +22,7 @@ I also evaluate AI-generated code and model output at micro1 — rubrics, RLHF, 
 
 ### Selected work
 
+- **[whatsapp-llm-agent](https://github.com/fassousa/whatsapp-llm-agent)** — engineering case study of a WhatsApp agent running unattended in production: Baileys session lifecycle, liveness probe, external watchdog, media pipeline and LLM cost control. Code private; architecture and decisions documented.
 - **[production-n8n-postgres-ha](https://github.com/fassousa/production-n8n-postgres-ha)** — fault-tolerant n8n + PostgreSQL stack: queue mode with dedicated workers, PgBouncer in front of Postgres, Redis persistence, Caddy reverse proxy. Built around three specific failure modes (OOM on webhook spikes, connection exhaustion, silent timeouts), not around a tutorial.
 - **[currency-converter-ruby](https://github.com/fassousa/currency-converter-ruby)** — Rails 7 API with JWT auth, 190 tests, caching, CI/CD and a real deploy. Written as a technical assessment; kept as a reference for how I structure a Rails service.
 - **[fassousa.github.io](https://github.com/fassousa/fassousa.github.io)** — my personal site.
