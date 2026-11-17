@@ -1,14 +1,55 @@
-<h1 align="center">Hi 👋, I'm Fagnner Sousa</h1>
-<h3 align="center">A web developer from Brazil</h3>
+# Fagnner Sousa
 
-- 📫 How to reach me **sousafagnner@gmail.com**
+**Backend engineer — payments infrastructure.**
+Rails · PostgreSQL · PIX/TED · idempotency · reconciliation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fagnnersousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fagnnersousa/" height="30" width="40" /></a>
-</p>
+I build and stabilize systems that move money. Six years in production, mostly Ruby on Rails and PostgreSQL, in domains where a wrong assumption costs real money: payment flows, billing, reconciliation and account limits.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+Currently a backend engineer at Jaya Tech, allocated to Syngenta Digital, migrating legacy Python services to Rails 7 and building large-scale geospatial processing with PostGIS and RabbitMQ. Before that: the payments squad at Grafeno (PIX, TED, settlement, collections, account limits) and Governance & Billing at Pipefy (materialized views, real-time revenue capture, usage limits).
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fassousa&show_icons=true&locale=en&layout=compact" alt="fassousa" /></p>
+I also evaluate AI-generated code and model output at micro1 — rubrics, RLHF, and review of JavaScript, TypeScript and Python. That turns out to be a useful pairing with payments: I can review what agents write before it reaches a ledger.
+
+---
+
+### What I'm good at
+
+| Area | What that means in practice |
+|---|---|
+| **Payment flows** | Idempotency, webhooks, ledger, reconciliation, retries, audit trails |
+| **Rails & PostgreSQL performance** | N+1, composite indexes, materialized views, queues, lock contention |
+| **Geospatial data** | PostGIS, large-volume binary processing, optimization algorithms |
+| **AI in production** | Evals, guardrails, and reviewing AI-generated code for correctness and security |
+
+### Selected work
+
+- **[production-n8n-postgres-ha](https://github.com/fassousa/production-n8n-postgres-ha)** — fault-tolerant n8n + PostgreSQL stack: queue mode with dedicated workers, PgBouncer in front of Postgres, Redis persistence, Caddy reverse proxy. Built around three specific failure modes (OOM on webhook spikes, connection exhaustion, silent timeouts), not around a tutorial.
+- **[currency-converter-ruby](https://github.com/fassousa/currency-converter-ruby)** — Rails 7 API with JWT auth, 190 tests, caching, CI/CD and a real deploy. Written as a technical assessment; kept as a reference for how I structure a Rails service.
+- **[fassousa.github.io](https://github.com/fassousa/fassousa.github.io)** — my personal site.
+
+### Stack
+
+`Ruby` `Rails 7` `RSpec` `Sidekiq` `PostgreSQL` `PostGIS` `Redis` `RabbitMQ` `AWS` `Google Cloud` `Docker` `CI/CD` `TypeScript` `Node.js` `Python`
+
+---
+
+<details>
+<summary><strong>Português</strong></summary>
+
+<br>
+
+**Engenheiro backend — infraestrutura de pagamentos.**
+Rails · PostgreSQL · PIX/TED · idempotência · conciliação
+
+Construo e estabilizo sistemas que movimentam dinheiro. Seis anos em produção, principalmente com Ruby on Rails e PostgreSQL, em domínios onde uma premissa errada custa dinheiro real: fluxos de pagamento, cobrança, conciliação e limites de conta.
+
+Hoje sou engenheiro backend na Jaya Tech, alocado na Syngenta Digital, migrando serviços legados de Python para Rails 7 e construindo processamento de geodados em larga escala com PostGIS e RabbitMQ. Antes: squad de meios de pagamento na Grafeno (PIX, TED, liquidação, cobrança, limites de conta) e Governança & Billing no Pipefy (materialized views, captura de receita em tempo real, limites de uso).
+
+Também avalio código gerado por IA na micro1 — rubricas, RLHF e revisão de JavaScript, TypeScript e Python. É uma combinação útil com pagamentos: sei revisar o que agentes escrevem antes de chegar a um ledger.
+
+**Aberto a** posições sênior de backend (remoto, UTC-3) e contratos em fintechs, SaaS e empresas com fluxo de pagamento crítico.
+
+</details>
+
+---
+
+**Contact** · [LinkedIn](https://www.linkedin.com/in/fagnnersousa/) · sousafagnner@gmail.com · Rio de Janeiro, Brazil (UTC-3)
